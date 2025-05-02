@@ -1,1 +1,3 @@
 # RNN
+Este repositorio contiene un proyecto de aprendizaje profundo enfocado en la predicción del precio de cierre de acciones del índice S&P 500 utilizando una red neuronal LSTM (Long Short-Term Memory), una variante especializada de las redes neuronales recurrentes (RNN).
+Se utiliza como fuente de datos el conjunto all_stocks_5yr.csv de Kaggle, que recopila precios históricos de apertura, cierre, máximos, mínimos y volumen de transacciones de múltiples compañías listadas en la bolsa de Nueva York (NYSE) durante cinco años. Para este caso de estudio, se selecciona Apple Inc. (AAPL) como acción de referencia.
